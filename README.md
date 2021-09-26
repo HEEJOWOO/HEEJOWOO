@@ -1,5 +1,8 @@
 ### Hi there 👋
+I am HeeJo Woo, a deep learning developer.
+I'm mainly developing for Super Resolution, Object Detection and Lightweight.
 
+If you have any questions, please send them to wq8336@gmail.com. 📫
 <!--
 **HEEJOWOO/HEEJOWOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
