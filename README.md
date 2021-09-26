@@ -1,8 +1,11 @@
 ### Hi there 👋
-I am HeeJo Woo, a deep learning developer.
+I'm HeeJo Woo, a deep learning developer.
 I'm mainly developing for Super Resolution, Object Detection and Lightweight.
 
 If you have any questions, please send them to wq8336@gmail.com. 📫
+
+### Stack
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <!--
 **HEEJOWOO/HEEJOWOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
