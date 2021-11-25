@@ -4,6 +4,8 @@ I'm mainly developing for Super Resolution, Object Detection and Lightweight.
 
 If you have any questions, please send them to wq8336@gmail.com. 📫
 
+[Notion](https://mint-hole-e7c.notion.site/7ec22d2a244a4d8b94973a72839bf914)
+
 ### ⚡Stack⚡
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
@@ -12,6 +14,7 @@ If you have any questions, please send them to wq8336@gmail.com. 📫
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HEEJOWOO&show_icons=true&theme=radical)
+
 
 <!--
 **HEEJOWOO/HEEJOWOO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
